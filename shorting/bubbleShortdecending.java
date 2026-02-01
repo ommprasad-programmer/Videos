@@ -1,4 +1,5 @@
-public class bubbleShorting {
+public class bubbleShortdecending {
+   
 
     public static void main(String[] args) {
 
@@ -7,13 +8,14 @@ public class bubbleShorting {
 
         boolean swapped;
 
+      
         for (int i = 0; i < n - 1; i++) {
             swapped = false;
 
             for (int j = 0; j < n - 1 - i; j++) {
-                if (arr[j] > arr[j + 1]) {
+                if (arr[j] < arr[j + 1]) {
 
-                    
+                  
                     int temp = arr[j];
                     arr[j] = arr[j + 1];
                     arr[j + 1] = temp;
@@ -22,15 +24,18 @@ public class bubbleShorting {
                 }
             }
 
-           
+            
             if (!swapped) {
                 break;
             }
         }
 
+        
         System.out.print("Sorted Array: ");
         for (int i = 0; i < n; i++) {
             System.out.print(arr[i] + " ");
         }
     }
 }
+
+
