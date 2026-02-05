@@ -3,8 +3,8 @@ import java.util.Arrays;
 public class twoSum {
     public static void main(String[] args) {
 
-        int[] arr = {1, -3, 10, 13, 17, 20};
-        int target = -2;
+        int[] arr = {1, -3, 22, 13, 17, 20};
+        int target = 23;
 
         Arrays.sort(arr);   
         int n = arr.length;
