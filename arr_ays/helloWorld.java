@@ -1,4 +1,4 @@
-package arrays;
+package arr_ays;
 
 public class helloWorld {
     public static void main(String[] args) {

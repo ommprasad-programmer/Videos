@@ -1,4 +1,4 @@
-package arrays;
+package arr_ays;
 
 import java.util.Scanner;
 
