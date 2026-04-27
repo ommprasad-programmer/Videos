@@ -1,4 +1,4 @@
-package binaySearch;
+package DSA.binaySearch;
 
 public class searchindecending {
     public static void main(String[] args) {
