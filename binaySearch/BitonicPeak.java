@@ -1,3 +1,5 @@
+package DSA.binaySearch;
+
 public class BitonicPeak {
 
     public static int findPeak(int[] arr) {

@@ -1,4 +1,4 @@
-package binaySearch;
+package DSA.binaySearch;
 
 public class firstAndLastOcurance {
     public static void main(String[] args) {

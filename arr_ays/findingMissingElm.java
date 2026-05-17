@@ -1,4 +1,4 @@
-package arr_ays;
+package DSA.arr_ays;
 
 public class findingMissingElm {
     public static void main(String[] args) {

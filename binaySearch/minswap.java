@@ -1,3 +1,6 @@
+
+package DSA.binaySearch;
+
 import java.util.*;
 
 public class minswap {

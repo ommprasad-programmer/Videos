@@ -1,4 +1,4 @@
-package arr_ays;
+package DSA.arr_ays;
 
 public class segregate0and1 {
    public static void main(String[] args) {

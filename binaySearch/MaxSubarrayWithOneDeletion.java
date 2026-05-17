@@ -1,3 +1,4 @@
+package DSA.binaySearch;
 public class MaxSubarrayWithOneDeletion {
 
     public static int maximumSum(int[] arr) {

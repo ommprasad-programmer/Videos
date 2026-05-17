@@ -1,4 +1,4 @@
-package arr_ays;
+package DSA.arr_ays;
 
 public class reverseArray {
     public static void main(String[] args) {
