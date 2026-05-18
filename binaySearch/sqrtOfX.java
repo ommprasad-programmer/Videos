@@ -1,3 +1,5 @@
+package DSA.binaySearch;
+public class sqrtOfX{
 public static int sqrt(int x) {
 
     if (x == 0 || x == 1) {
@@ -25,4 +27,6 @@ public static int sqrt(int x) {
     }
 
     return ans;
+}
+
 }
